@@ -1,4 +1,4 @@
-# Documentacion de la APP DE RRHH: 
+# Documentacion de la APP DE RRHH
 
 Este proyecto contiene la siguiente documentación:
 ## Contenido
