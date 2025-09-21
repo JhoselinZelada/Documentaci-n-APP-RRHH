@@ -69,6 +69,8 @@ Este diagrama es Ãºtil para entender los requisitos funcionales del sistema y cÃ
 
 
 ## Narrativas de casos de uso 
+![narrativa](narrativas_casos_de_uso/narrativa_empleado_registrando_horas_extra.png)
+
 -El resto de las narrativas -> Ver en carpteta /narrativas_casos_de_uso
 
 ## Diagrama de actividades 
