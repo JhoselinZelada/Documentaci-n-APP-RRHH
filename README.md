@@ -24,6 +24,8 @@ de reclutamiento tampoco podrá generar los recibos de sueldos. No se ocupará d
 ## Diagrama de clases 
 ![Diagrama de clase](diagrama_clases.png)
 ## Diagrama de casos de usos
+![Diagrama de casos_de_uso](diagrama_de_casos_de_uso.png)
+![Diagrama de casos_de_uso](diagrama_de_casos_de_uso_1.png)
 ## Narrativas de casos de uso 
 -El resto de las narrativas -> Ver en carpteta /narrativas_casos_de_uso
 
