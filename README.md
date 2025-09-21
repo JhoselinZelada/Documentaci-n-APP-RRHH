@@ -22,7 +22,7 @@ su perfil profesional y así como solicitar días de vacaciones.  El sistema es 
 de reclutamiento tampoco podrá generar los recibos de sueldos. No se ocupará de liquidaciones de sueldo ni cálculos de retenciones o impuestos. 
 
 ## Diagrama de clases 
-![Diagrama de clase](diagrama_de_clases.png)
+![Diagrama de clase](diagrama_clases.png)
 ## Diagrama de casos de usos
 ## Narrativas de casos de uso 
 -El resto de las narrativas -> Ver en carpteta /narrativas_casos_de_uso
