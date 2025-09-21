@@ -80,6 +80,7 @@ Este diagrama es Ãºtil para entender los requisitos funcionales del sistema y cÃ
 
 
 ## Diagrama de secuencia 
+![actividad](diagramas_secuencia/login_secuencia.png)
 
 -El resto de los diagramas de secuencia -> Ver en carpteta /diagramas_secuencia
 
