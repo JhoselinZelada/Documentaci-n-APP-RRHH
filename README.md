@@ -74,6 +74,8 @@ Este diagrama es Ãºtil para entender los requisitos funcionales del sistema y cÃ
 -El resto de las narrativas -> Ver en carpteta /narrativas_casos_de_uso
 
 ## Diagrama de actividades 
+![actividad](diagramas_actividades/solicitud_vacaciones.png)
+
 -El resto de los diagramas de actividades -> Ver en carpteta /diagramas_actividades
 
 
