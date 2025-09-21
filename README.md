@@ -85,6 +85,7 @@ Este diagrama es Ãºtil para entender los requisitos funcionales del sistema y cÃ
 -El resto de los diagramas de secuencia -> Ver en carpteta /diagramas_secuencia
 
 ## Prototipo de interfaz 
+![actividad](diagramas_interfaz/consulta_empleado.png)
 
 
 -El resto de los diagramas de secuencia -> Ver en carpteta /diagramas_interfaz
